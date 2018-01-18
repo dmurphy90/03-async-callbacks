@@ -14,9 +14,15 @@
     "jest"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmurphy90/03-async-callbacks/issues"
   },
-  "homepage": "https://github.com/dmurphy90/03-async-callbacks#readme"
+  "homepage": "https://github.com/dmurphy90/03-async-callbacks#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jest": "^22.1.2"
+  }
 }
